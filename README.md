@@ -1,5 +1,5 @@
 # 게임 소개
-![image](https://github.com/choi-m-09/SUPERHOT/assets/80871047/5f79d697-55e6-436e-b615-af55dcf24efb)
+![그림1](https://github.com/choi-m-09/SUPERHOT/assets/80871047/4497254e-ca70-4777-8282-4801066262e3)
 
 # 플레이 영상
 
